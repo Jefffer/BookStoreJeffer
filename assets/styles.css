@@ -1,7 +1,7 @@
 .banner {
     height: 300px;
     background-image: url('../images/banner.webp');
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 
 .banner .mask {
@@ -22,3 +22,21 @@
     font-size: 3.5rem;
     font-weight: bold;
 }
+
+.my-navbar {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    background-color: #025e73;
+}
+
+.book-image {
+    height: 800px;
+    width: auto;
+    background-image: url('../images/book.jpg');
+    background-repeat: no-repeat;
+    /* background-size:100%; */
+}
+
+/* .my-blue {
+    color: #025e73;
+} */
